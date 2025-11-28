@@ -43,7 +43,3 @@ Skill in organizing components for reusability and scalability
 
 
 Experience in building clean UI without writing custom CSS
-
-
-
-If you want, I can also create a GitHub README version, a shorter description, or help you write a project introduction for your portfolio.
